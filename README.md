@@ -1,7 +1,5 @@
 # WEB site M&Msoft![641b3f9ce3cdde01161582b2_629712455650ab2e848fe8c4_logo-wordpress](https://github.com/MickyNM/WP_site_M-Msoft/assets/140019715/452e15b8-6877-43a6-8948-1002a26ade77)
 
-![krug](https://github.com/MickyNM/WP_site_M-Msoft/assets/140019715/fe96326b-3bcf-489b-8860-163657c1d0cf)
-
 https://github.com/MickyNM/WP_site_M-Msoft/assets/140019715/80c34cb7-9610-4e7b-8559-07fc17cf95fd
 
 https://github.com/MickyNM/WP_site_M-Msoft/assets/140019715/5f4607ba-4a22-46fa-859e-37cd6e15fa6f
